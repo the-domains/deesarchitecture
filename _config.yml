@@ -1,7 +1,7 @@
 name: DEESArchitecture
 favicon: null
-layout_spectrum: 0.9245623853057623
-typography_spectrum: 0.6121154355350882
+layout_spectrum: 0.60569
+typography_spectrum: 0.14802
 title: Design Ecologies P/L Environmental Sustainable Architecture
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.27663169405423105
-  lightness: 0.9683062443509698
-  saturation: 0.6811650379095227
-  rhythmicContrast: 0.9667653262149543
+  lightness: 0.9375
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
