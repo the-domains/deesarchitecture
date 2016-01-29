@@ -1,29 +1,41 @@
-name: DEESArchitecture
-favicon: null
-layout_spectrum: 0.60569
-typography_spectrum: 0.14802
 title: Design Ecologies P/L Environmental Sustainable Architecture
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6875
+  brandStrength: 0.3125
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#787878'
     - '#59862e'
     - '#dfdfdf'
     - '#a8c08e'
-  brandStrength: 0.3125
   lightness: 0.9375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: DEESArchitecture
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.14802
+layout_spectrum: 0.04131535
